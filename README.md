@@ -1,6 +1,6 @@
 # Crypto Exercises
 
-### BENTIFRAOUINE Sid Ali
+## BENTIFRAOUINE Sid Ali
 
 ### To run the project
 
@@ -12,5 +12,13 @@ source py3/bin/activate
 python --version # Should be: Python 3.7.3
 
 # Run the Carsar cypher
-python caesar
+python main.py
 ```
+
+### Results
+
+- 1.1. NPCKGCPCVCKNJC
+- 1.2. VIVELEMODULEDECRYPTO
+- 1.3. FINDUPREMIEREXO
+- 2.1. TOURFKYS
+- 2.2. LABICHEBRAMEAUCLAIRDELUNEETPLEUREASEFONTRELESYEUXSONPETITFAONDELICIEUXADISPARUDANSLANUITBRUN
